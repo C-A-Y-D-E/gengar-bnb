@@ -43,7 +43,8 @@ const Join = () => {
               whileHover={{ scale: 1.2, rotate: 10 }}
               whileTap={{ scale: 0.9 }}
               transition={{ type: "spring", stiffness: 300, damping: 10 }}
-              href="/"
+                href="https://t.me/Gehehe_Gengar"
+              target="_blank"
             >
               <motion.img
                 initial={{ opacity: 0, x: -30 }}
@@ -58,7 +59,8 @@ const Join = () => {
               whileHover={{ scale: 1.2, rotate: -10 }}
               whileTap={{ scale: 0.9 }}
               transition={{ type: "spring", stiffness: 300, damping: 10 }}
-              href="/"
+              href="https://x.com/Gehehe_Gengar"
+              target="_blank"
             >
               <motion.img
                 initial={{ opacity: 0, x: 30 }}

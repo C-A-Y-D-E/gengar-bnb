@@ -72,10 +72,10 @@ const Goinomics = () => {
             viewport={{ once: true }}
           >
             <h2 className="text-[11px] md:text-xl lg:text-2xl">
-              0x3b8A11DB825df513e958C128098C226A5f5DDe20
+            0xf5b6a7816026f745fcfee8f0dbf39eccc751d7bd
             </h2>
             <CopyToClipboard
-              text=" 0x3b8A11DB825df513e958C128098C226A5f5DDe20"
+              text="0xf5b6a7816026f745fcfee8f0dbf39eccc751d7bd"
               onCopy={handleCopy}
             >
               <motion.button
