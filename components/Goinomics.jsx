@@ -51,7 +51,7 @@ const Goinomics = () => {
               viewport={{ once: true }}
             >
               <h1 className="text-lg md:text-xl lg:text-2xl">Tax</h1>
-              <Item h2="9%" />
+              <Item h2="3%" />
             </motion.div>
             <motion.div
               className="flex flex-col items-center gap-5"
