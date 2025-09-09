@@ -47,9 +47,7 @@ const Buy = () => {
                 2
               </h1>
               <p className="p-4 lg:p-8 bg-[#654192] font-bold text-lg md:text-xl lg:text-2xl">
-                Download metamask or your wallet of choice from the app store or
-                google play store for free. Desktop users, download the google
-                chrome extension by going to metamask.io.
+              Have BNB in your wallet to switch to GENGAR. If you don't have any BNB, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.
               </p>
             </motion.div>
             <motion.div
@@ -63,9 +61,7 @@ const Buy = () => {
                 3
               </h1>
               <p className=" p-4 lg:p-8 bg-[#654192] font-bold text-lg md:text-xl lg:text-2xl">
-                Download metamask or your wallet of choice from the app store or
-                google play store for free. Desktop users, download the google
-                chrome extension by going to metamask.io.
+              Go to pancakeswap.finance in google chrome or on the browser inside your Metamask app. Connect your wallet. Paste the GENGAR token address into Uniswap, select GENGAR COIN, and confirm. When Metamask prompts you for a wallet signature, sign.
               </p>
             </motion.div>
             <motion.div
@@ -79,9 +75,7 @@ const Buy = () => {
                 4
               </h1>
               <p className="p-4 lg:p-8 bg-[#654192] font-bold text-lg md:text-xl lg:text-2xl">
-                Download metamask or your wallet of choice from the app store or
-                google play store for free. Desktop users, download the google
-                chrome extension by going to metamask.io.
+              Switch BNB for GENGAR. We have 3/3 Taxes so you don't need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.
               </p>
             </motion.div>
           </div>
